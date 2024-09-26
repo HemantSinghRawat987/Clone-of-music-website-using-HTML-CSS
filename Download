@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify-Download</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="bumrah">
+        <pre><a href="/index.html"><i class="fa-brands fa-spotify"></i>Spotify</a>                     <a href="/kyun.html" class="rahul">Premium</a>    <a href="/kohli.html" class="rahul">Support</a>     <a href="/rohit.html" class="rahul">Download</a> | <a href="/gill.html" class="rahul">Sign up</a> <a href="/shreyas.html" class="rahul">Log in</a></pre>    
+    </div>
+    <div class="taylor">
+        <img src="/scrshot15.png" id="james"><br><br><br>
+        <center><b><font size="8">Download Spotify</font></b></center><br><br>
+        <center>Play millions of songs and podcasts on your device.</center><br><br>
+        <center><a href="hello"><img src="/scrshot16.png"></a></center>
+    </div>
+    <div class="jimmy">
+        <center><b><font size="6">Bring your music to mobile and tablet, too.</font></b></center><br>
+        <center>Listening on your phone or tablet is free, easy, and fun.</center>
+        <center><a href="hello"><img src="/scrshot17.png"></a><a href="hello"><img src="/scrshot18.png"></a><a href="hello"><img src="/scrshot19.png"></a></center>
+    </div>
+    <div class="neesham">
+        <img src="/scrshot20.png">
+    </div>
+    
+</body>
+</html>
