@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify-Support</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <div class="boult">
+        <pre><font size="6" color="white"><i class="fa-brands fa-spotify"></i> Spotify</font>                                                                             <font size="6" color="white"><a href="/kyun.html" target="_main" id="why" style="text-decoration: none;"><font size="6" color="white">Premium</font></a> <a href="/kohli.html" id="where" target="_main" style="text-decoration: none;"><font size="6" color="white">Support</font></a>  <a href="/rohit.html" target="_main" style="text-decoration: none;" id="whom"><font size="6" color="white">Download</font></a></font> <font color="white"> | </font><a href="/gill.html" target="_main" style="text-decoration: none;" id="who"><font size="6" color="white">Sign Up</font> </a><a href="/shreyas.html" target="_main" style="text-decoration: none;"><button width="200"><font color="black"> Log in</font></a></button></pre><br><br>
+        <font color="white" style="margin-left: 250px;">Spotify Support</font><br>
+        <font color="white" size="5" style="margin-left: 250px;"><b>How we can help you?</b></font>
+    </div>
+    <div class="southee">
+        <font color="white" size="5"><a href="/shreyas.html" style="color:white"><b>Log in</a> for faster help</b></font><br><br>
+        <input type="text" height="150" width="300" placeholder="search">
+        <br><br>
+        <pre><a href="https://support.spotify.com/in-en/"><img src="/scrshot27.png"></a> <a href="https://support.spotify.com/in-en/"><img src="/scrshot28.png"></a> <a href="https://support.spotify.com/in-en/"><img src="/scrshot29.png"></a></pre>
+        <pre><a href="https://support.spotify.com/in-en/"><img src="/scrshot30.png"></a> <a href="https://support.spotify.com/in-en/"><img src="/scrshot31.png"></a> <a href="https://support.spotify.com/in-en/"><img src="/scrshot32.png"></a></pre>
+    </div>
+    <div class="henry">
+        <font size="6"><b>Quick Help</b></font><br>
+        <pre><font size="5">Spotify'2023 Wrapped FAQ                   <i class="fa-solid fa-caret-down"></i></font></pre>
+        <pre><font size="5">Can't reset Password                       <i class="fa-solid fa-caret-down"></i></font></pre>
+        <pre><font size="5">Can't remeber login details                <i class="fa-solid fa-caret-down"></i></font></pre>
+        <pre><font size="5">Price updates and payment methods          <i class="fa-solid fa-caret-down"></i></font></pre>
+    </div>
+    <div class="ferguson">
+        <pre>      <font size="7"><b>Visit our Community</b></font></pre>
+        <b>Have questions?Find answer from world wide community of expert fans!</b><br><br>
+        <pre>                    <button style="height:50px;width:200px;border-radius: 16px;background-color: rgb(54, 255, 47);color:black"><b>Go to Community</b></button></pre>
+    </div>
+</body>
+</html>
