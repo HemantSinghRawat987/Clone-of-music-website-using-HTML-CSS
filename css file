@@ -1,0 +1,350 @@
+body{
+    margin:0px;
+}
+.hello{
+    background-color: black;
+    height:680px;
+    width:1350px;
+    display: inline-flex;
+}
+.pikachu{
+    height:670px;
+    width:290px;
+    background-color:black;
+    border-radius:5%;
+    margin-top: 5px;
+    margin-left: 10px;
+    position: fixed;
+    top:0;
+}
+.jadeja{
+    height:350px;
+    width:220px;
+}
+.jadeja:hover{
+    width:230px;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+.dragonite{
+    background-color:rgb(20, 20, 22) ;
+    color:white;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 3px;
+    padding-top: 3px;
+    height:170px;
+    border-radius:3%;
+    width:280px;
+   
+}
+.gengar{
+    height:360px;
+    background-color:rgb(20, 20, 22) ;
+    border-radius: 3%;
+    margin-top: 1px;
+    padding-top: 5px;
+    padding-left:20px;
+    color:rgb(117, 117, 126);
+    font-weight: bolder;
+    width:267px;
+}
+.lucario:hover{
+    color:white;
+}
+#hello{
+    color:black;
+}
+.dracowish{
+    color:white;
+    background-color:rgb(32, 32, 36) ;
+    height:100px;
+    width:200px;
+    border-radius:3%;
+    padding-top: 5px;
+    padding-left: 10px;
+    margin-left: 1px;
+    overflow: auto;
+}
+#rabbit{
+    color:rgb(32, 32, 36);
+}
+#bye:hover{
+    color:white;
+}
+select{
+    height:30px;
+}
+.hawlucha{
+    background-color: rgb(15, 15, 17);
+    margin-left: 310px;
+    height:550px;
+    width:1020px;
+    color:white;
+    border-radius: 5%;
+    margin-top: 10px;
+    margin-right: 15px;
+    position: fixed;
+    top:0;
+    overflow: auto;
+}
+.lugia{
+    height:60px;
+    width:1270px;
+    background-color: rgb(199, 58, 192);
+    margin-left: -10px;
+    margin-right: 10px;
+    color:white;
+    padding-top: 0px;
+    font-size: 16px;
+    font-weight:lighter;
+}
+#zapdos{
+    width:100px;
+    color:black;
+    height: 35px;
+    border-radius: 20%;
+    
+}
+.darkrai{
+    width:1003px;
+    height:50px;
+    background-color:rgb(15, 15, 17) ;
+    font-weight: bolder;
+    position: fixed;
+    top:0;
+}
+.darkrai:hover{
+    color:white;
+}
+.ishan{
+    background-color: rgb(27, 27, 31);
+    border-radius: 4%;
+    height:1200px;
+    padding-left: 20px;
+    padding-top: 35px;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 60px;
+}
+#surya:hover{
+    text-decoration: underline;
+    font-size: 30px;
+    
+    
+}
+#why:hover{
+    color: white;
+}
+#where:hover{
+    color:white;
+}
+.shami{
+    color:grey;
+}
+.shami:hover{
+    text-decoration: underline;
+    color:rgb(196, 121, 121);
+    font-weight: 0px;
+}
+::-webkit-scrollbar{
+    background-color:rgb(11, 11, 12) ;
+}
+::-webkit-scrollbar-track{
+    
+    background-color:rgb(17, 17, 19);
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(56, 56, 59);
+}
+.bumrah{
+    height:60px;
+    width:1320px;
+    background-color: black;
+    color:white;
+    padding-top: 1px;
+    font-size: 30px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+.rahul{
+    color:white;
+    font-size: 24px;
+}
+.rahul:hover{
+    color:green;
+}
+.ashwin{
+    background-color: rgb(10, 139, 245);
+    height:500px;
+    width:1350px;
+}
+.thakur{
+    padding-top: 100px;
+}
+center{
+    padding-left: 20px;
+}
+#head{
+    padding-left: 180px;
+    font-size: 34px;
+}
+#finch{
+    padding-left: -200px;
+    margin-left: -80px;
+    height:52px;
+    background-color: black;
+    color:white;
+    border-radius: 30%;
+    width:150px;
+}
+#smith{
+    margin-left: 50px;
+    margin-top: -200px;
+    height:52px;
+    width:130px;
+    border-radius: 30%;
+    border-color: white;
+    background-color:rgb(10, 139, 245) ;
+
+}
+.marcus{
+    text-decoration: underline;
+}
+.marsh{
+    height:500px;
+    width:1290px;
+    background-color: white;
+    padding-top:90px;
+    padding-left:390px;
+}
+#glenn{
+    margin-left: -250px;
+}
+.carey{
+    display: inline-flex;
+    height:900px;
+    width:1300px;
+    background-color: rgb(238, 238, 238);
+}
+#starc{
+    padding-top: 100px;
+    padding-left: 195px;
+}
+.pat{
+    height:30px;
+    width:50px;
+}
+.josh{
+    height:530px;
+    width:300px;
+    border-radius: 2%;
+    margin-left: -940px;
+    margin-top: 300px;
+    background-color: white;
+}
+.adam{
+    height:30px;
+    width:200px;
+    margin-left:20px;
+    margin-top: 20px;
+    border-color: blue;
+    color:blue;
+}
+.kyunki{
+    padding-left: 18px;
+}
+.boland{
+    margin-left: 15px;
+    font-size: 20px;
+}
+#scott{
+    margin-left: 80px;
+    margin-top: 30px;
+    color:white;
+    background-color: black;
+    height:50px;
+    width:120px;
+    border-radius: 10%;
+}
+.hazlewood{
+    height:530px;
+    width:300px;
+    margin-top: 300px;
+    margin-left: 10px;
+    background-color: white;
+    border-radius:2% ;
+    padding-left: 10px;
+}
+.byebye{
+    color:black;
+}
+.conway{
+    height:530px;
+    width:300px;
+    background-color: white;
+    margin-top: 300px;
+    margin-left: 10px;
+    border-radius: 2%;
+}
+.will{
+    height:530px;
+    width:300px;
+    background-color: white;
+    margin-top: 300px;
+    margin-left: 10px;
+}
+.young{
+    margin-top: 5px;
+    margin-left: 10px;
+    background-color: blue;
+    color:white;
+}
+.kane{
+    height:70px;
+    background-color: rgb(238, 238, 238);
+    width:20px;
+}
+.williamson{
+    height:60px;
+    width:700px;
+    background-color: white;
+    margin-top: 0px;
+    margin-left: 30px;
+    padding-top: 20px;
+    padding-left: 120px;
+    font-size: 30px;
+}
+.taylor{
+    background-color: rgb(25, 230, 140);
+    width:1320px;
+    height:600px;
+}
+#james{
+    margin-top: 100px;
+    margin-left: 580px;
+}
+.jimmy{
+    background-color: white;
+    width:1320px;
+    height:200px;
+}
+.jimmy{
+    padding-top: 30px;
+}
+.rinku{
+    margin-left: 13px;
+}
+.ishan-kishan{
+    background-color: rgb(27, 27, 31);
+    border-radius: 4%;
+    height:1570px;
+    padding-left: 20px;
+    padding-top: 35px;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 60px;
+}
+
