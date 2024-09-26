@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify-Sign Up</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body bgcolor="black">
+    <br><br>
+    <pre>    <font size="7" color="white"><i class="fa-brands fa-spotify"></i>   <b>Spotify</b></font></pre>
+    <br><br>
+    <div class="neesham">
+        <font color="white" size="7"><b>Sign Up to start<br>listening</b></font>
+        <br><br>
+        <label for id="101"><font color="white" size="4"><b>Email adress</b></font></label><br><br>
+        <input type="text" placeholder="name@domain.com" style="margin-left:0px;"><br>
+        <a href="/shreyas.html" style="color:green;"><b>Use mobile number instead</b></a>
+        <br><br><br><button class="tim"><b>Next</b></button><br><br>
+        <hr color="grey" width="800px" style="margin-left: -250px;"><br>
+        <div class="arshdeep" style="border-width: 2px; border-style: solid; border-color: white; border-radius: 16px;margin-left: 0px;">
+            <pre><font color="green"><i class="fa-brands fa-google"></i></font>     <a href="/https://www.google.com/" style="text-decoration: none;"><font color="white"><b>Continue with Google</b></font></a></pre>
+         </div><br>
+         <div class="mukesh" style="border-width: 2px; border-style: solid; border-color: white; border-radius: 16px;margin-left: 0px;">
+             <pre><font color="blue"><i class="fa-brands fa-facebook"></i></font>   <a href="/https://facebook.com/" style="text-decoration: none;"><font color="white"><b>Continue with facebook</b></font></a></pre>
+         </div>
+         <br><br>
+         <hr color="grey" width="800px" style="margin-left: -250px;"><br><br>
+         <p><font color="white" size="4">Already have an account <a href="/shreyas.html">log in here</a></font></p>
+         <p><font color="grey">This site is protected by reCAPTCHA and the Google<br>
+            Privacy Policy and Terms of Service apply.</font></p>
+    </div>
+</body>
+</html>
